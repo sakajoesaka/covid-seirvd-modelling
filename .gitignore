@@ -1,0 +1,7 @@
+# Generated figures and saved simulation runs (recreated by running the notebook)
+*.png
+*.npz
+
+# Jupyter and macOS clutter
+.ipynb_checkpoints/
+.DS_Store
