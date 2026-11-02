@@ -2,6 +2,5 @@
 *.png
 *.npz
 
-# Jupyter and macOS clutter
 .ipynb_checkpoints/
 .DS_Store
